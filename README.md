@@ -82,15 +82,12 @@ ecommerce-churn-risk-scorer/
 
 ## Key Results
 
-| Metric | Value |
-|---|---|
-| Total Customers Analysed | TBD after running notebook |
-| High Risk Customers | TBD |
-| Medium Risk Customers | TBD |
-| Low Risk Customers | TBD |
-| Model Accuracy | TBD |
-
-*Update after completing the analysis.*
+| Total Customers Analysed | 6,908 |
+| High Risk Customers | 3,550 (51.4%) |
+| Medium Risk Customers | 3,356 (48.6%) |
+| Low Risk Customers | 2 (0.03%) |
+| Model Accuracy | 99.9% |
+| Top Churn Predictor | Monetary Value |
 
 ---
 
@@ -106,12 +103,9 @@ ecommerce-churn-risk-scorer/
 
 ## Dashboard Preview
 
-| Churn Risk Overview | Segment Analysis | Intervention Map |
-|---|---|---|
-| ![Page 1](dashboard/screenshots/page1_risk_overview.png) | ![Page 2](dashboard/screenshots/page2_segments.png) | ![Page 3](dashboard/screenshots/page3_interventions.png) |
-
-*Add screenshots after completing Power BI dashboard.*
-
+![Churn Risk Overview](dashboard/screenshots/page1_churn_overview.png)
+![Segment Deep Dive](dashboard/screenshots/page2_segment_deepdive.png)
+![Intervention Command Centre](dashboard/screenshots/page3_intervention_centre.png)
 ---
 
 ## How to Run
