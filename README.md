@@ -82,13 +82,14 @@ ecommerce-churn-risk-scorer/
 
 ## Key Results
 
+| Metric | Value |
+|---|---|
 | Total Customers Analysed | 6,908 |
 | High Risk Customers | 3,550 (51.4%) |
 | Medium Risk Customers | 3,356 (48.6%) |
 | Low Risk Customers | 2 (0.03%) |
 | Model Accuracy | 99.9% |
 | Top Churn Predictor | Monetary Value |
-
 ---
 
 ## Intervention Playbook Summary
